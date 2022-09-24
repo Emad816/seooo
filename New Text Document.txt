@@ -1,0 +1,25 @@
+--main-color:#6733e2;
+--btn-color:#f8dd28;
+--line:1.6;
+--tran:.3s;
+
+
+height: 312px;
+    width: 450px;
+
+2
+
+3
+
+4
+
+5
+
+6
+
+ 
+
+
+
+
+
